@@ -1,0 +1,92 @@
+﻿.container {
+    font-family: 'Raleway', 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: azure;
+    color: slategrey;
+    border: 1px solid darksalmon;
+}
+#collapsibleNavbar {
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid dimgrey;
+    background-color: ghostwhite;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+
+img {
+        -webkit-filter: grayscale(.3);
+        filter: grayscale(.3);
+    }
+
+#bunny-1 {
+    border: 2px solid darksalmon;
+    border-radius: 5%;
+}
+
+#bunny-2 {
+    border: 2px solid darksalmon;
+    border-radius: 5%;
+}
+
+#bunny-3 {
+    border: 2px solid darksalmon;
+    border-radius: 5%;
+}
+#bunny-4 {
+    border-bottom: 1px solid crimson;
+}
+
+h1 {
+    padding-top: 10px;
+    color: lightcoral;
+    font-family: 'Raleway', 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-bottom: 1px solid gainsboro;
+    padding-bottom: 3px;
+
+}
+.card-title {
+    font-family: 'Roboto';
+    font-size: 15px;
+    color: crimson;
+}
+.card {
+    border: 1px solid crimson;
+}
+.card-body {
+    text-align: center;
+    justify-content: center;
+}
+
+.btn.btn-primary {
+    border: 1px solid dimgrey;
+    justify-content: center;
+    font-size: 14px;
+    color: crimson;
+    background-color: aliceblue;
+}
+
+thead {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 12px;
+    color: darksalmon;
+    font: 'Raleway';
+}
+
+.footer {
+    padding-top: 10px;
+    font-size: 12px;
+    background-color: ghostwhite;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid dimgrey;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+.navbar-light .navbar-nav a.nav-link:hover {
+    color: darksalmon;
+}
